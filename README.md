@@ -6,7 +6,7 @@ UNTreF - Algoritmos y Programación 1
 
 ## Enunciado
 
-Implementar la clase `PronosticoDelFinDeSemana` con operaciones para:
+1. Implementar la clase `PronosticoDelFinDeSemana` con operaciones para:
 	
 * Pronosticar la temperatura de cada uno de los días del fin de semana.
 	
@@ -20,6 +20,8 @@ Implementar la clase `PronosticoDelFinDeSemana` con operaciones para:
 	 
 
 ## Solución
+
+1. Implementación y pruebas
 
 * [`PronosticoDelFinDeSemana`](src/PronosticoDelFinDeSemana.java)
 
